@@ -10,6 +10,8 @@ ECORIEGO es un sistema automatizado para optimizar el riego agrícola, diseñado
 * Conectividad GPRS: Envía datos a la nube mediante ThingSpeak.
 * Ahorro energético: Implementa modo de sueño profundo para optimizar el consumo de energía.
 * Control dinámico: Ajusta los tiempos de riego según las condiciones del suelo.
+![image](https://github.com/user-attachments/assets/aa696fe7-33be-496a-bae1-0ef5ec22389f)
+
 ## Uso
 1. Configuración del hardware:
 * Conecta los sensores y el relay al ESP32.
